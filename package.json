@@ -1,0 +1,22 @@
+{
+  "name": "namastereact-pratik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratik9851/NamasteReact-pratik.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratik9851/NamasteReact-pratik/issues"
+  },
+  "homepage": "https://github.com/pratik9851/NamasteReact-pratik#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
