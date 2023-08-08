@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "parcel index3.html",
+    "build": "parcel build index3.html",
     "test": "jest"
   },
   "repository": {
@@ -17,6 +19,13 @@
   },
   "homepage": "https://github.com/pratik9851/NamasteReact-pratik#readme",
   "devDependencies": {
-    "parcel": "^2.9.3"
+    "eslint": "^8.46.0",
+    "eslint-plugin-react": "^7.33.1",
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }

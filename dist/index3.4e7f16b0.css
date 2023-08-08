@@ -1,0 +1,48 @@
+.headerContainer {
+  border: 1px solid #000;
+  justify-content: space-between;
+  display: flex;
+}
+
+.logo {
+  width: 150px;
+}
+
+.headerContainer .nav-items ul {
+  font-size: 24px;
+  list-style-type: none;
+  display: flex;
+}
+
+.headerContainer .nav-items ul li {
+  margin: 10px;
+  padding: 10px;
+}
+
+.res-container {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.res-cardContainer {
+  width: 200px;
+  height: 300px;
+  margin: 10px;
+  padding: 5px;
+}
+
+.res-cardContainer:hover {
+  cursor: pointer;
+  border: 1px solid #000;
+}
+
+.res-logo {
+  width: 100%;
+  height: 40%;
+}
+
+.searchbar {
+  padding: 10px;
+}
+
+/*# sourceMappingURL=index3.4e7f16b0.css.map */
