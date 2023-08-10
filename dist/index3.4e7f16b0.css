@@ -45,4 +45,15 @@
   padding: 10px;
 }
 
+.board-row {
+  justify-content: space-evenly;
+  align-items: center;
+  display: flex;
+}
+
+.board-container {
+  width: 50%;
+  margin: 20px;
+}
+
 /*# sourceMappingURL=index3.4e7f16b0.css.map */
